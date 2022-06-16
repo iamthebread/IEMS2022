@@ -1,13 +1,22 @@
+h2 {
+    font-family: 'Dosis', sans-serif;
+    text-align: center;
+    color: #dcdcdc;
+    font-size: 70px;
+}
 h1  {
+    font-family: 'Dosis', sans-serif;
 text-align: center;
-color: aliceblue;
+color: #dcdcdc;
 font-size: 80px;
 }
 
 p1 {
-    font-size: medium;
+    font-family: 'Dosis', sans-serif;
+    font-size: 20px;
+    line-height: 0.4;
 }
 
 body {
-    background-color: darkgray;
+    background-color: #314159;
   }
