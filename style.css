@@ -17,6 +17,10 @@ p1 {
     line-height: 0.4;
 }
 
+p3 {
+    text-align: right;
+}
+
 body {
     background-color: #314159;
   }
